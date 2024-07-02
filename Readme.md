@@ -11,7 +11,7 @@
 
 - Pull or download the zip file of the project.
 - Set image path according to your system.
-- Create mysql database with name "MCA" and table with name "mayank" with username and password as root.
+- Create mysql database with name "MCA" and table with name "ayushi" with username and password as root.
 
 ## On command prompt or terminal run following commads:
 
